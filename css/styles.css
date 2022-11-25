@@ -45,6 +45,10 @@ a:hover {
     color: #eaf6f6;
 }
 
+.profile-quote {
+    font-size: 1.25rem;
+}
+
 .pro {
     text-decoration: underline;
 }
